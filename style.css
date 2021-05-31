@@ -1,0 +1,34 @@
+h3
+  {
+    font-size: 25px !important;
+    background-color: rgb(255, 160, 44);
+      padding: 10px;
+      box-shadow:0px 0px 38px white;
+      border-radius: 20px;
+  }
+  canvas {
+  	border:1px solid black;
+  }
+
+  body {
+      background-color: rgb(255, 213, 162);
+  }
+
+  button {
+    background-color: rgb(255, 160, 44);
+    box-shadow: 0px 0px 18px grey;
+  }
+
+  #camera {
+    background-color: rgb(255, 183, 95);
+    height: 630px;
+    width: 650px;
+    border-radius: 20px;
+    box-shadow:0px 0px 38px white;
+  }
+
+  label {
+      margin: 10px;
+  }
+
+  
